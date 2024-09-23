@@ -1,0 +1,16 @@
+# Ignorowanie plików środowiska wirtualnego
+venv/
+__pycache__/
+*.pyc
+
+# Ignorowanie plików logów i tymczasowych
+*.log
+*.tmp
+
+# Ignorowanie danych wejściowych/wyjściowych (jeśli nie chcesz ich pushować)
+*.jpg
+*.xml
+
+# Ignorowanie konfiguracji IDE
+.vscode/
+.idea/
